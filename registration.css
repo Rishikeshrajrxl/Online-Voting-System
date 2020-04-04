@@ -1,0 +1,109 @@
+body{
+	margin:0px;
+	padding:0px;
+    background-image: url("login.jpg");
+
+}
+
+ul{
+	list-style-type:none;
+	background-color:rgb(80, 224, 36);
+	overflow:hidden;
+}
+li{
+	float:right;
+}
+li a{
+	padding:20px;
+	display:inline-block;
+	text-decoration:none;
+	color:black;
+	overflow: hidden;
+}
+li a:hover{
+	background-color:rgb(22, 119, 48  );
+	color:white;
+}
+.head{
+	margin-right:40%;
+	color:white;
+	float:right;
+	
+}
+.voteImg{
+	width:8%;
+	height:8%;
+	position:absolute;
+	top:5%;
+}
+
+
+
+.formoutline{
+	background-color: white;
+	width:60%;
+	height: 75%;
+	border-color:lightgreen;
+	position:relative;
+	top:2%;
+	left:20%;
+	border-radius: 2%;
+	background:transparent;
+	background-color: rgb(74, 72, 70  );
+
+}
+.Registration{
+	text-align: center;
+	position: relative;
+	top:4%;
+	font-size:30px;
+	color:white;
+
+}
+.form{
+	position: relative;
+	top:6%;
+	left:3%;
+}
+input{
+	margin-left:30px;
+	padding:15px;
+	margin-left:15%;
+	float:left; 
+	width:300px;
+	border-color:rgb(100, 244, 49 );
+	border-radius:5px;
+	border-width:.5px;
+	text-decoration: none;
+	cursor: pointer;
+	box-sizing: border-box;
+}
+.btn:hover{
+	background-color: rgb(217, 56, 0  );
+}
+.btn{
+	color:white;
+	background-color: rgb(215, 82, 36);
+	text-align: center;
+	position: relative;
+	margin-top: 5px;
+    margin-left: 195px;
+
+}
+td{
+	margin-top:0px;
+	padding:5px;
+}
+#date{
+	width: 10%;
+}
+tr td p input {
+	width:200px;
+
+}
+tr td h3 input{
+	position:relative;
+	right: 110px;
+	width:410px;
+
+}
