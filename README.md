@@ -1,7 +1,6 @@
 # Online-Voting-System
 <p>This is a web application, It can be used for any general purpose Election.</p>
-# It is up and running : 
-http://onlinevoting.byethost13.com/index.php
+It is up and running here : http://onlinevoting.byethost13.com/index.php
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/FrontEnd-HTML-informational?style=flat&logo=Html&logoColor=white&color=2bbc8a)
